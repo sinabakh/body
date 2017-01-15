@@ -1,4 +1,4 @@
-# body 👅💨�
+# body :tongue::dash::nauseated_face:
 
 Checks the color of the tongue and the head. If the tongue was red the head was green, the head will be beheaded!
 
